@@ -124,7 +124,7 @@
 	.w3layouts-nav-right {
 		float: right;
 		line-height: 67px;
-		margin-right: 5em;
+		margin-right: 0;
 	}
 	.fat-nav li a {
 		font-size: 0.8em;
@@ -138,7 +138,7 @@
 	}
 }
 @media screen and (max-width: 991px){
-	
+
 .fat-nav li {
     font-size: 1.5em;
 }

@@ -667,7 +667,7 @@ ul.address li ul.agileits-address-text li a {
 .exp_grid1{
 	margin-top:40px;
 	position: relative;
-	margin-left:50px;
+	margin-left: 35px;
 	width:100%;
 }
 .exp_grid1 span.fa {
@@ -685,7 +685,7 @@ ul.address li ul.agileits-address-text li a {
 }
 .exp_grid1 h4 {
     color: #666;
-    font-size: 20px;
+    font-size: 15px;
     letter-spacing: 2px;
     font-weight: 400;
     text-transform: uppercase;
@@ -1330,7 +1330,7 @@ img.zoom-img:hover {
 
 	}
 	.exp_grids {
-		padding-left: 35px;
+		padding-left: 25px;
 	}
 }
 @media (max-width:640px) {
@@ -1482,10 +1482,10 @@ img.zoom-img:hover {
 		padding: 0 1em;
 	}
 	.exp_grids {
-		padding-left: 29px;
+		padding-left: 25px;
 	}
 	.exp_grid1 h4 {
-		font-size: 17px;
+		font-size: 15px;
 	}
 	.exp_grid1 h5 {
 		font-size: 14px;
@@ -1535,7 +1535,7 @@ img.zoom-img:hover {
 		margin-bottom: 10px;
 	}
 	.exp_grid1 h4 {
-		font-size: 16px;
+		font-size: 15px;
 		line-height: 28px;
 	}
 	.exp_grid1 span.fa {
@@ -1668,7 +1668,7 @@ img.zoom-img:hover {
 	.exp_grid1 {
 		margin-top:40px;
 	position: relative;
-	margin-left:20px;
+	margin-left: 10px;
 	width:200px;
 	}
 	.exp_grid1 span.fa {
