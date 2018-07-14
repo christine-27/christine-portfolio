@@ -124,7 +124,7 @@
 	.w3layouts-nav-right {
 		float: right;
 		line-height: 67px;
-		margin-right: 0;
+		margin-right: 5em;
 	}
 	.fat-nav li a {
 		font-size: 0.8em;
