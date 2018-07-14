@@ -1601,13 +1601,13 @@ img.zoom-img:hover {
 }
 @media (min-width: 1200px) and (max-width: 1255px) {
 	body {
-		overflow: hidden;
+		overflow-y: hidden;
 	}
 
 }
 @media (min-width: 1001px) and (max-width: 1056px) {
 	body {
-		overflow: hidden;
+		overflow-y: hidden;
 	}
 	.flex-control-nav li {
 		margin: 0 3px;
@@ -1624,7 +1624,7 @@ img.zoom-img:hover {
 }
 @media (min-width: 951px) and (max-width: 1000px) {
 	body {
-		overflow: hidden;
+		overflow-y: hidden;
 	}
 	.flex-control-nav li {
 		margin: 0 3px;
@@ -1641,7 +1641,7 @@ img.zoom-img:hover {
 }
 @media (min-width: 901px) and (max-width: 950px) {
 	body {
-		overflow: hidden;
+		overflow-y: hidden;
 	}
 	.flex-control-nav li {
 		margin: 0 3px;
@@ -1655,7 +1655,7 @@ img.zoom-img:hover {
 }
 @media (min-width: 851px) and (max-width: 900px) {
 	body {
-		overflow: hidden;
+		overflow-y: hidden;
 	}
 	.flex-control-nav li {
 		margin: 0 3px;
@@ -1670,7 +1670,7 @@ img.zoom-img:hover {
 
 @media (min-width: 801px) and (max-width: 850px) {
 	body {
-		overflow: hidden;
+		overflow-y: hidden;
 	}
 	.flex-control-nav li {
 		margin: 0 3px;
@@ -1678,14 +1678,14 @@ img.zoom-img:hover {
 	.exp_grid1 {
 		margin-top: 40px;
 		position: relative;
-		margin-left: 50px;
-		width: 600px;
+		margin-left: 40px;
+		width: 580px;
 	}
 }
 
 @media (min-width: 751px) and (max-width: 800px) {
 	body {
-		overflow: hidden;
+		overflow-y: hidden;
 	}
 	.flex-control-nav li {
 		margin: 0 3px;
@@ -1701,7 +1701,7 @@ img.zoom-img:hover {
 
 @media (min-width: 701px) and (max-width: 750px) {
 	body {
-		overflow: hidden;
+		overflow-y: hidden;
 	}
 	.flex-control-nav li {
 		margin: 0 3px;
@@ -1717,7 +1717,7 @@ img.zoom-img:hover {
 
 @media (min-width: 670px) and (max-width: 700px) {
 	body {
-		overflow: hidden;
+		overflow-y: hidden;
 	}
 	.flex-control-nav li {
 		margin: 0 3px;
@@ -1747,7 +1747,7 @@ img.zoom-img:hover {
 
 @media (min-width: 601px) and (max-width: 650px) {
 	body {
-		overflow: hidden;
+		overflow-y: hidden;
 	}
 	.flex-control-nav li {
 		margin: 0 3px;
@@ -1761,7 +1761,7 @@ img.zoom-img:hover {
 }
 @media (min-width: 551px) and (max-width: 600px) {
 	body {
-		overflow: hidden;
+		overflow-y: hidden;
 	}
 	.flex-control-nav li {
 		margin: 0 3px;
@@ -1775,7 +1775,7 @@ img.zoom-img:hover {
 }
 @media (min-width: 501px) and (max-width: 550px) {
 	body {
-		overflow: hidden;
+		overflow-y: hidden;
 	}
 	.flex-control-nav li {
 		margin: 0 3px;
@@ -1790,7 +1790,7 @@ img.zoom-img:hover {
 
 @media (min-width: 451px) and (max-width: 500px) {
 	body {
-		overflow: hidden;
+		overflow-y: hidden;
 	}
 	.flex-control-nav li {
 		margin: 0 3px;
@@ -1806,7 +1806,7 @@ img.zoom-img:hover {
 
 @media (min-width: 401px) and (max-width: 450px) {
 	body {
-		overflow: hidden;
+		overflow-y: hidden;
 	}
 	.flex-control-nav li {
 		margin: 0 3px;
@@ -1820,7 +1820,7 @@ img.zoom-img:hover {
 }
 @media (min-width: 351px) and (max-width: 400px) {
 	body {
-		overflow: hidden;
+		overflow-y: hidden;
 	}
 	.flex-control-nav li {
 		margin: 0 3px;
@@ -1834,7 +1834,7 @@ img.zoom-img:hover {
 }
 @media (min-width: 300px) and (max-width: 350px) {
 	body {
-		overflow: hidden;
+		overflow-y: hidden;
 	}
 	.w3-socials {
 		margin-right: 55px;
@@ -1918,7 +1918,7 @@ img.zoom-img:hover {
 }
 @media (min-width: 250px) and (max-width: 299px) {
 	body{
-		overflow: hidden;
+		overflow-y: hidden;
 	}
 	.exp_grid1 {
 		margin-top:40px;
